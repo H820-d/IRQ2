@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+streamlit
+pandas
+openpyxl
+EOF

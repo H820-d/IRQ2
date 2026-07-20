@@ -1,0 +1,76 @@
+{
+    "assessment_name": "",
+    "assessment_year": "",
+    "responses": {
+        "A1a": {
+            "Individual Customers": 84500,
+            "Non-Individual Customers": 11200
+        },
+        "A1b": {
+            "Individual Customers": 71200,
+            "Non-Individual Customers": 9300
+        },
+        "A1c": {
+            "AED": 57500000000
+        },
+        "A2a": {
+            "Comments": "Ongoing remediation of legacy KYC records is progressing; no material backlog affecting the FCC program."
+        },
+        "B1a": {
+            "Answer": "No"
+        },
+        "B1f": {
+            "High %": 15,
+            "Medium %": 25,
+            "Low %": 55,
+            "Unrated %": 5
+        },
+        "B1g": {
+            "High %": 12,
+            "Medium %": 28,
+            "Low %": 55,
+            "Unrated %": 5
+        },
+        "B4a": {
+            "Description": "Primary exposure to trade-based money laundering and sanctions evasion given cross-border remittance corridors."
+        },
+        "C3a": {
+            "High Risk": 6200,
+            "Medium Risk": 21000,
+            "Low Risk": 52000,
+            "Unrated": 1800
+        },
+        "C4a": {
+            "Domestic PEPs": 180,
+            "Foreign PEPs": 95,
+            "International Organization PEPs": 30
+        },
+        "C1i": {
+            "Answer": "No"
+        },
+        "D1b": {
+            "Answer": "Yes"
+        },
+        "D1a": {
+            "Customers": 4200
+        },
+        "E1a": {
+            "High %": 18,
+            "Medium %": 30,
+            "Low %": 48,
+            "Unrated %": 4
+        },
+        "E1m": {
+            "Answer": "No"
+        },
+        "F1a": {
+            "Answer": "No"
+        },
+        "G1a": {
+            "Headcount": 45
+        },
+        "H1e": {
+            "Answer": "No"
+        }
+    }
+}
